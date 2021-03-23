@@ -9,9 +9,13 @@ Fakultas: Teknik Informatika
 Anggota Kelompok :
 
 1.Raymond Tjahyadi (535190030) Ketua Kelompok 
+
 2.Muhammad yana Harris (535190036) 
+
 3.Ferdy Sechannandito (535190046) 
+
 4.Leonardo Tejaya (535190027) 
+
 5.Andre Ertanto (535190029)
 
 
