@@ -2,6 +2,8 @@
 
 Education App project with Flutter.
 
+With Youtube API V3 + FlutterFire 
+
 Universitas Tarumanagara 
 
 Fakultas: Teknik Informatika
