@@ -1,6 +1,6 @@
-# education
+# Keema education
 
-A new Flutter project.
+Education App project with Flutter.
 
 ## Getting Started
 
